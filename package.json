@@ -1,0 +1,22 @@
+{
+  "name": "node-web-server",
+  "version": "1.0.0",
+  "description": "Udemy課程：[The Complete Node.js Developer Course (2nd Edition)](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/content)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyFu314/node-web-server.git"
+  },
+  "author": "AndyFu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyFu314/node-web-server/issues"
+  },
+  "homepage": "https://github.com/AndyFu314/node-web-server#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
